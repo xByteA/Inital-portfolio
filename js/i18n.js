@@ -244,7 +244,7 @@ const resumeData = {
       {
         title: 'Backend AI Intern',
         org: 'FlyRank',
-        period: 'Jul 2026 – End Sep 2026',
+        period: 'Jul 2026 – Sep 2026',
         desc: 'Selected for an AI Backend Engineering internship focused on RAG pipelines, LLM APIs, agent-based systems, evaluation, grounding techniques, and production-ready backend architecture.',
       },
     ],
@@ -333,7 +333,7 @@ const resumeData = {
       {
         title: 'متدرب Backend AI',
         org: 'FlyRank',
-        period: 'يوليو 2026 – نهاية سبتمبر 2026',
+        period: 'يوليو 2026 – سبتمبر 2026',
         desc: 'اختير لتدريب هندسة Backend AI يركز على RAG pipelines وLLM APIs وأنظمة Agent-based وتقنيات التقييم وال grounding والهندسة الخلفية الجاهزة للإنتاج.',
       },
     ],
