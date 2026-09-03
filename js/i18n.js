@@ -9,7 +9,6 @@ const translations = {
       about: 'About',
       services: 'Services',
       resume: 'Resume',
-      testimonials: 'Testimonials',
       contact: 'Contact',
     },
     cover: {
@@ -83,12 +82,6 @@ const translations = {
       achievements: 'Achievements',
       viewGithub: 'View on GitHub',
     },
-    testimonials: {
-      label: 'Testimonials',
-      title: 'What Clients Say',
-      placeholder: 'Testimonials will be added as I collaborate with more clients.',
-      comingSoon: 'Coming soon',
-    },
     contact: {
       label: 'Contact',
       title: "Let's build something great together.",
@@ -125,7 +118,6 @@ const translations = {
       about: 'نبذة',
       services: 'الخدمات',
       resume: 'السيرة',
-      testimonials: 'آراء العملاء',
       contact: 'تواصل',
     },
     cover: {
@@ -198,12 +190,6 @@ const translations = {
       activities: 'الأنشطة',
       achievements: 'الإنجازات',
       viewGithub: 'عرض على GitHub',
-    },
-    testimonials: {
-      label: 'آراء العملاء',
-      title: 'ماذا يقول العملاء',
-      placeholder: 'ستُضاف آراء العملاء مع تعاوني مع المزيد منهم.',
-      comingSoon: 'قريباً',
     },
     contact: {
       label: 'تواصل',
